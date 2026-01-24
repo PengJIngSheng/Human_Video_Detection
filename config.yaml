@@ -1,6 +1,6 @@
 # Model settings
 model:
-  weights: "staff_project/yolov13_finetune/weights/best.pt"
+  weights: "runs/detect/staff_project/yolov13_finetune/weights/best.pt"
   device: "cuda"
   half: true
 
